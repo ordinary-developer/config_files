@@ -1,0 +1,840 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Bookmarks:
+'H
+	/home/ivan/
+	../
+1431458019
+'b
+	/home/ivan/bin/
+	../
+1431458030
+'h
+	/home/ivan/
+	../
+1431458030
+'z
+	/home/ivan/.vifm
+	../
+1431458019
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/ivan/Загрузки/visualstudio
+	../
+0
+d/home/ivan/Загрузки
+	../
+0
+d/home/ivan
+	../
+0
+d/home
+	../
+0
+d/
+	media/
+8
+d/media
+	ivan/
+3
+d/media/ivan
+	BOOKS/
+1
+d/media/ivan/BOOKS
+	IT_BOOKS/
+1
+d/media/ivan/BOOKS/IT_BOOKS
+	applied/
+1
+d/media/ivan/BOOKS/IT_BOOKS/applied
+	WEB/
+5
+d/media/ivan/BOOKS/IT_BOOKS/applied/WEB
+	JS/
+6
+d/media/ivan/BOOKS/IT_BOOKS/applied/WEB/JS
+	eloquent_js_(2nd_ed)_M.HAVERBEKE/
+1
+d/media/ivan/BOOKS/IT_BOOKS/applied/WEB/JS/eloquent_js_(2nd_ed)_M.HAVERBEKE
+	my_code/
+2
+d/media/ivan/BOOKS/IT_BOOKS/applied/WEB/JS/eloquent_js_(2nd_ed)_M.HAVERBEKE/my_code
+	chapter_13/
+1
+d/media/ivan/BOOKS/IT_BOOKS/applied/WEB/JS/eloquent_js_(2nd_ed)_M.HAVERBEKE/my_code/chapter_13
+	07_syntax_highlighter/
+7
+d/media/ivan/BOOKS/IT_BOOKS/applied/WEB/JS/eloquent_js_(2nd_ed)_M.HAVERBEKE/my_code/chapter_13/07_syntax_highlighter
+	../
+0
+d/media/ivan/BOOKS/IT_BOOKS/applied/WEB/JS/eloquent_js_(2nd_ed)_M.HAVERBEKE/my_code/chapter_13
+	../
+0
+d/media/ivan/BOOKS/IT_BOOKS/applied/WEB/JS/eloquent_js_(2nd_ed)_M.HAVERBEKE/my_code
+	../
+0
+d/media/ivan/BOOKS/IT_BOOKS/applied/WEB/JS/eloquent_js_(2nd_ed)_M.HAVERBEKE
+	../
+0
+d/media/ivan/BOOKS/IT_BOOKS/applied/WEB/JS
+	../
+0
+d/media/ivan/BOOKS/IT_BOOKS/applied/WEB
+	../
+0
+d/media/ivan/BOOKS/IT_BOOKS/applied
+	../
+0
+d/media/ivan/BOOKS/IT_BOOKS
+	../
+0
+d/media/ivan/BOOKS
+	../
+0
+d/media/ivan
+	../
+0
+d/media
+	../
+0
+d/
+	home/
+4
+d/home
+	ivan/
+1
+d/home/ivan
+	Загрузки/
+16
+d/home/ivan/Загрузки
+	soda.vim-master/
+1
+d/home/ivan/Загрузки/soda.vim-master
+	../
+0
+d/home/ivan/Загрузки
+	soda.vim-master/
+1
+d/home/ivan/Загрузки/soda.vim-master
+	colors/
+1
+d/home/ivan/Загрузки/soda.vim-master/colors
+	../
+0
+d/home/ivan/Загрузки/soda.vim-master
+	../
+0
+d/home/ivan/Загрузки
+	soda.vim-master/
+1
+d/home/ivan/Загрузки/soda.vim-master
+	../
+0
+d/home/ivan/Загрузки
+	flattened-master/
+1
+d/home/ivan/Загрузки/flattened-master
+	colors/
+1
+d/home/ivan/Загрузки/flattened-master/colors
+	../
+0
+d/home/ivan/Загрузки/flattened-master
+	../
+0
+d/home/ivan/Загрузки
+	FlatColor-master/
+1
+d/home/ivan/Загрузки/FlatColor-master
+	colors/
+1
+d/home/ivan/Загрузки/FlatColor-master/colors
+	../
+0
+d/home/ivan/Загрузки/FlatColor-master
+	../
+0
+d/home/ivan/Загрузки
+	vim-colors-github-master/
+4
+d/home/ivan/Загрузки/vim-colors-github-master
+	colors/
+1
+d/home/ivan/Загрузки/vim-colors-github-master/colors
+	../
+0
+d/home/ivan/Загрузки/vim-colors-github-master
+	../
+0
+d/home/ivan/Загрузки
+	genericdc-master/
+3
+d/home/ivan/Загрузки/genericdc-master
+	colors/
+1
+d/home/ivan/Загрузки/genericdc-master/colors
+	../
+0
+d/home/ivan/Загрузки/genericdc-master
+	../
+0
+d/home/ivan/Загрузки
+	cake16-master/
+2
+d/home/ivan/Загрузки/cake16-master
+	colors/
+1
+d/home/ivan/Загрузки/cake16-master/colors
+	../
+0
+d/home/ivan/Загрузки/cake16-master
+	../
+0
+d/home/ivan/Загрузки
+	gruvbox-master/
+3
+d/home/ivan/Загрузки/gruvbox-master
+	autoload/
+1
+d/home/ivan/Загрузки/gruvbox-master/autoload
+	../
+0
+d/home/ivan/Загрузки/gruvbox-master
+	autoload/
+1
+d/home/ivan/Загрузки/gruvbox-master/autoload
+	airline/
+1
+d/home/ivan/Загрузки/gruvbox-master/autoload/airline
+	../
+0
+d/home/ivan/Загрузки/gruvbox-master/autoload
+	../
+0
+d/home/ivan/Загрузки/gruvbox-master
+	colors/
+2
+d/home/ivan/Загрузки/gruvbox-master/colors
+	../
+0
+d/home/ivan/Загрузки/gruvbox-master
+	../
+0
+d/home/ivan/Загрузки
+	vim-starwars-master/
+4
+d/home/ivan/Загрузки/vim-starwars-master
+	colors/
+1
+d/home/ivan/Загрузки/vim-starwars-master/colors
+	../
+0
+d/home/ivan/Загрузки/vim-starwars-master
+	../
+0
+d/home/ivan/Загрузки
+	AtelierDune-master/
+1
+d/home/ivan/Загрузки/AtelierDune-master
+	colors/
+1
+d/home/ivan/Загрузки/AtelierDune-master/colors
+	../
+0
+d/home/ivan/Загрузки/AtelierDune-master
+	../
+0
+d/home/ivan/Загрузки
+	earendel-master/
+2
+d/home/ivan/Загрузки/earendel-master
+	colors/
+1
+d/home/ivan/Загрузки/earendel-master/colors
+	../
+0
+d/home/ivan/Загрузки/earendel-master
+	../
+0
+d/home/ivan/Загрузки
+	vim-sol-master/
+4
+d/home/ivan/Загрузки/vim-sol-master
+	colors/
+1
+d/home/ivan/Загрузки/vim-sol-master/colors
+	../
+0
+d/home/ivan/Загрузки/vim-sol-master
+	../
+0
+d/home/ivan/Загрузки
+	../
+0
+d/home/ivan
+	.vimrc
+17
+d/
+	media/
+8
+d/media
+	ivan/
+3
+d/media/ivan
+	BOOKS/
+1
+d/media/ivan/BOOKS
+	colors/
+5
+d/media/ivan/BOOKS/colors
+	../
+0
+d/media/ivan/BOOKS
+	../
+0
+d/media/ivan
+	IVAN/
+2
+d/media/ivan/IVAN
+	DATA/
+2
+d/media/ivan/IVAN/DATA
+	../
+0
+d/media/ivan/IVAN
+	REPOSITORIES/
+4
+d/media/ivan/IVAN/REPOSITORIES
+	INFO/
+1
+d/media/ivan/IVAN/REPOSITORIES/INFO
+	info_files/
+2
+d/media/ivan/IVAN/REPOSITORIES/INFO/info_files
+	dictionary/
+1
+d/media/ivan/IVAN/REPOSITORIES/INFO/info_files/dictionary
+	../
+0
+d/media/ivan/IVAN/REPOSITORIES/INFO/info_files
+	dictionary/
+1
+d
+
+# Right window history (oldest to newest):
+D/home/ivan/progs
+	firefox/
+1
+D/home/ivan/progs/firefox
+	../
+0
+D/home/ivan/progs
+	firefox/
+1
+D/home/ivan/progs/firefox
+	../
+0
+D/home/ivan/progs
+	../
+0
+D/home/ivan
+	tmp/
+12
+D/home/ivan/tmp
+	c07_code/
+1
+D/home/ivan/tmp/c07_code
+	../
+0
+D/home/ivan/tmp
+	c07_code/
+1
+D/home/ivan/tmp/c07_code
+	01_SpreadsheetCellNumOnly/
+1
+D/home/ivan/tmp/c07_code/01_SpreadsheetCellNumOnly
+	AccessControl/
+1
+D/home/ivan/tmp/c07_code/01_SpreadsheetCellNumOnly/AccessControl
+	../
+0
+D/home/ivan/tmp/c07_code/01_SpreadsheetCellNumOnly
+	AccessControl/
+1
+D/home/ivan/tmp/c07_code/01_SpreadsheetCellNumOnly/AccessControl
+	../
+0
+D/home/ivan/tmp/c07_code/01_SpreadsheetCellNumOnly
+	../
+0
+D/home/ivan/tmp/c07_code
+	../
+0
+D/home/ivan/tmp
+	../
+0
+D/home/ivan
+	work/
+15
+D/home/ivan/work
+	prof_c++/
+1
+D/home/ivan/work/prof_c++
+	chapter_7/
+1
+D/home/ivan/work/prof_c++/chapter_7
+	01_SpreadSheetCell/
+1
+D/home/ivan/work/prof_c++/chapter_7/01_SpreadSheetCell
+	../
+0
+D/home/ivan/work/prof_c++/chapter_7
+	01_SpreadSheetCell/
+1
+D/home/ivan/work/prof_c++/chapter_7/01_SpreadSheetCell
+	../
+0
+D/home/ivan/work/prof_c++/chapter_7
+	01_SpreadSheetCell/
+1
+D/home/ivan/work/prof_c++/chapter_7/01_SpreadSheetCell
+	../
+0
+D/home/ivan/work/prof_c++/chapter_7
+	01_SpreadSheetCell/
+1
+D/home/ivan/work/prof_c++/chapter_7/01_SpreadSheetCell
+	../
+0
+D/home/ivan/work/prof_c++/chapter_7
+	05_assignment_operator/
+5
+D/home/ivan/work/prof_c++/chapter_7/05_assignment_operator
+	../
+0
+D/home/ivan/work/prof_c++/chapter_7
+	../
+0
+D/home/ivan/work/prof_c++
+	../
+0
+D/home/ivan/work
+	../
+0
+D/home/ivan
+	work/
+15
+D/home/ivan/work
+	js/
+1
+D/home/ivan/work/js
+	../
+0
+D/home/ivan/work
+	../
+0
+D/home/ivan
+	.vim/
+10
+D/home/ivan/.vim
+	bundle/
+2
+D/home/ivan/.vim/bundle
+	nerdtree-json/
+3
+D/home/ivan/.vim/bundle/nerdtree-json
+	plugin/
+6
+D/home/ivan/.vim/bundle/nerdtree-json/plugin
+	../
+0
+D/home/ivan/.vim/bundle/nerdtree-json
+	../
+0
+D/home/ivan/.vim/bundle
+	Solarized/
+2
+D/home/ivan/.vim/bundle/Solarized
+	colors/
+2
+D/home/ivan/.vim/bundle/Solarized/colors
+	../
+0
+D/home/ivan/.vim/bundle/Solarized
+	../
+0
+D/home/ivan/.vim/bundle
+	../
+0
+D/home/ivan/.vim
+	colors/
+3
+D/home/ivan/.vim/colors
+	../
+0
+D/home/ivan/.vim
+	../
+0
+D/home/ivan
+	.vim/
+4
+D/home/ivan/.vim
+	colors/
+3
+D/home/ivan/.vim/colors
+	../
+0
+D/home/ivan/.vim
+	colors/
+3
+D/home/ivan/.vim/colors
+	../
+0
+D/home/ivan/.vim
+	../
+0
+D/home/ivan
+	../
+0
+D/home
+	../
+0
+D/
+	home/
+4
+D/home
+	ivan/
+1
+D/home/ivan
+	../
+0
+D/home
+	ivan/
+1
+D/home/ivan
+	../
+0
+D/home
+	ivan/
+1
+D/home/ivan
+	.fonts/
+4
+D/home/ivan/.fonts
+	../
+0
+D/home/ivan
+	.vifm/
+6
+D/home/ivan/.vifm
+	../
+0
+D/home/ivan
+	.vim/
+7
+D/home/ivan/.vim
+	colors/
+3
+D/home/ivan/.vim/colors
+	../
+0
+D/home/ivan/.vim
+	../
+0
+D/home/ivan
+	.vim/
+11
+D/home/ivan/.vim
+	colors/
+3
+D/home/ivan/.vim/colors
+	../
+0
+D/home/ivan/.vim
+	colors/
+3
+D/home/ivan/.vim/colors
+	../
+0
+D/home/ivan/.vim
+	../
+0
+D/home/ivan
+	../
+0
+D/home
+	ivan/
+1
+D/home/ivan
+	progs/
+13
+D/home/ivan/progs
+	../
+0
+D/home/ivan
+	tmp/
+15
+D/home/ivan/tmp
+	../
+0
+D/home/ivan
+	work/
+16
+D/home/ivan/work
+	js/
+1
+D/home/ivan/work/js
+	../
+0
+D/home/ivan/work
+	../
+0
+D/home/ivan
+	../
+0
+D/home
+	../
+0
+D/
+	home/
+4
+D/home
+	ivan/
+1
+D/home/ivan
+	.vim/
+11
+D/home/ivan/.vim
+	colors/
+3
+D/home/ivan/.vim/colors
+	../
+0
+D/home/ivan/.vim
+	../
+0
+D/home/ivan
+	tmp/
+15
+D/home/ivan/tmp
+	dictionary/
+2
+D/home/ivan/tmp/dictionary
+	../
+0
+D
+
+# Command line history (oldest to newest):
+:mkdir bundle
+:mkdir vim_odl
+:mkdir vim_old
+:w
+:colorscheme solarized-dark
+:mkdir progs
+:!unzip c07_code.zip
+:!touch SpreadSheetCell.hpp
+:!mkdir 01_SpreadSheetCell
+:mkdir 04_destruction_scope
+:mkdir 05_assignment_operator
+:cd ~
+:colors
+:mkdir colors
+:!unzip eclipse.vim-master.zip
+:!unzip vim-github-colorscheme-master.zip
+:!unzip mango.vim-master.zip
+:!unzip Disciple-master.zip
+:!unzip saturn.vim-master.zip
+:!gunzip vim-colorschemes-master.zip
+:!tar xvf vim-colorschemes-master.zip
+:!unzip vim-colorschemes-master.zip
+:!gunzip visualstudio.tar.gz
+:!tar xvf visualstudio.tar
+:mkidr .fonts
+:!mkdir .fonts
+:!unzip soda.vim-master.zip
+:!unzip flattened-master.zip
+:!unzip FlatColor-master.zip
+:!unzip vim-colors-github-master.zip
+:!unzip genericdc-master.zip
+:!unzip cake16-master.zip
+:!unzip gruvbox-master.zip
+:!unzip vim-starwars-master.zip
+:!unzip AtelierDune-master.zip
+:!unzip earendel-master.zip
+:!unzip vim-sol-master.zip
+:cd /
+:wq
+:!xterm&
+:q
+
+# Search history (oldest to newest):
+/mnt
+/work
+/kate
+
+# Prompt history (oldest to newest):
+p01_base_SpreadSheetCell
+ppages_[chapter_8].txt
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/ivan/.vifm/Trash/001_github.vim
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/ivan/.vifm/Trash/000_vifm-0.7.7
+	/home/ivan/tmp/vifm-0.7.7
+t/home/ivan/.vifm/Trash/000_vifm-0.7.7.tar.bz2
+	/home/ivan/tmp/vifm-0.7.7.tar.bz2
+t/home/ivan/.vifm/Trash/000_vim74
+	/home/ivan/tmp/vim74
+t/home/ivan/.vifm/Trash/000_vim-7.4.tar.bz2
+	/home/ivan/tmp/vim-7.4.tar.bz2
+t/home/ivan/.vifm/Trash/000_google-chrome-stable_current_i386.deb
+	/home/ivan/tmp/google-chrome-stable_current_i386.deb
+t/home/ivan/.vifm/Trash/000_SpreadSheetCell.h
+	/home/ivan/work/prof_c++/chapter_7/SpreadSheetCell.h
+t/home/ivan/.vifm/Trash/000_SpreadSheetCell.cpp
+	/home/ivan/work/prof_c++/chapter_7/SpreadSheetCell.cpp
+t/home/ivan/.vifm/Trash/000_chapter_7
+	/home/ivan/work/prof_c++/chapter_7
+t/home/ivan/.vifm/Trash/000_prof_c++
+	/home/ivan/work/prof_c++
+t/home/ivan/.vifm/Trash/000_06_attributes
+	/home/ivan/work/js/06_attributes
+t/home/ivan/.vifm/Trash/000_eclipse.vim
+	/home/ivan/.vim/colors/eclipse.vim
+t/home/ivan/.vifm/Trash/000_DevC++.vim
+	/home/ivan/.vim/colors/DevC++.vim
+t/home/ivan/.vifm/Trash/000_delphi.vim
+	/home/ivan/.vim/colors/delphi.vim
+t/home/ivan/.vifm/Trash/000_desertEx.vim
+	/home/ivan/.vim/colors/desertEx.vim
+t/home/ivan/.vifm/Trash/001_eclipse.vim
+	/home/ivan/.vim/colors/eclipse.vim
+t/home/ivan/.vifm/Trash/000_github.vim
+	/home/ivan/.vim/colors/github.vim
+t/home/ivan/.vifm/Trash/002_eclipse.vim
+	/home/ivan/.vim/colors/eclipse.vim
+t/home/ivan/.vifm/Trash/000_genericdc-light.vim
+	/home/ivan/.vim/colors/genericdc-light.vim
+t/home/ivan/.vifm/Trash/000_mango.vim
+	/home/ivan/.vim/colors/mango.vim
+t/home/ivan/.vifm/Trash/000_kate.vim
+	/home/ivan/.vim/colors/kate.vim
+t/home/ivan/.vifm/Trash/000_visualstudio.vim
+	/home/ivan/.vim/colors/visualstudio.vim
+t/home/ivan/.vifm/Trash/000_saturn.vim
+	/home/ivan/.vim/colors/saturn.vim
+t/home/ivan/.vifm/Trash/000_Disciple-master
+	/home/ivan/Загрузки/Disciple-master
+t/home/ivan/.vifm/Trash/000_eclipse.vim-master
+	/home/ivan/Загрузки/eclipse.vim-master
+t/home/ivan/.vifm/Trash/000_genericdc-master
+	/home/ivan/Загрузки/genericdc-master
+t/home/ivan/.vifm/Trash/000_mango.vim-master
+	/home/ivan/Загрузки/mango.vim-master
+t/home/ivan/.vifm/Trash/000_saturn.vim-master
+	/home/ivan/Загрузки/saturn.vim-master
+t/home/ivan/.vifm/Trash/000_vim-colorschemes-master
+	/home/ivan/Загрузки/vim-colorschemes-master
+t/home/ivan/.vifm/Trash/000_vim-github-colorscheme-master
+	/home/ivan/Загрузки/vim-github-colorscheme-master
+t/home/ivan/.vifm/Trash/000_visualstudio
+	/home/ivan/Загрузки/visualstudio
+t/home/ivan/.vifm/Trash/000_Disciple-master.zip
+	/home/ivan/Загрузки/Disciple-master.zip
+t/home/ivan/.vifm/Trash/003_eclipse.vim
+	/home/ivan/Загрузки/eclipse.vim
+t/home/ivan/.vifm/Trash/000_eclipse.vim-master.zip
+	/home/ivan/Загрузки/eclipse.vim-master.zip
+t/home/ivan/.vifm/Trash/000_genericdc-master.zip
+	/home/ivan/Загрузки/genericdc-master.zip
+t/home/ivan/.vifm/Trash/000_mango.vim-master.zip
+	/home/ivan/Загрузки/mango.vim-master.zip
+t/home/ivan/.vifm/Trash/000_saturn.vim-master.zip
+	/home/ivan/Загрузки/saturn.vim-master.zip
+t/home/ivan/.vifm/Trash/000_soda.vim-master.zip
+	/home/ivan/Загрузки/soda.vim-master.zip
+t/home/ivan/.vifm/Trash/000_vim-colorschemes-master.zip
+	/home/ivan/Загрузки/vim-colorschemes-master.zip
+t/home/ivan/.vifm/Trash/000_vim-github-colorscheme-master.zip
+	/home/ivan/Загрузки/vim-github-colorscheme-master.zip
+t/home/ivan/.vifm/Trash/000_visualstudio.tar
+	/home/ivan/Загрузки/visualstudio.tar
+t/home/ivan/.vifm/Trash/000_vim-colors-github-master
+	/home/ivan/Загрузки/vim-colors-github-master
+t/home/ivan/.vifm/Trash/000_vim-colors-github-master.zip
+	/home/ivan/Загрузки/vim-colors-github-master.zip
+t/home/ivan/.vifm/Trash/001_genericdc-light.vim
+	/home/ivan/.vim/colors/genericdc-light.vim
+t/home/ivan/.vifm/Trash/000_colors
+	/home/ivan/Загрузки/genericdc-master/colors
+t/home/ivan/.vifm/Trash/001_genericdc-master
+	/home/ivan/Загрузки/genericdc-master
+t/home/ivan/.vifm/Trash/001_genericdc-master.zip
+	/home/ivan/Загрузки/genericdc-master.zip
+t/home/ivan/.vifm/Trash/000_cake16-master
+	/home/ivan/Загрузки/cake16-master
+t/home/ivan/.vifm/Trash/000_cake16-master.zip
+	/home/ivan/Загрузки/cake16-master.zip
+t/home/ivan/.vifm/Trash/000_cake16.vim
+	/home/ivan/.vim/colors/cake16.vim
+t/home/ivan/.vifm/Trash/000_gruvbox-master
+	/home/ivan/Загрузки/gruvbox-master
+t/home/ivan/.vifm/Trash/000_gruvbox-master.zip
+	/home/ivan/Загрузки/gruvbox-master.zip
+t/home/ivan/.vifm/Trash/000_leya.vim
+	/home/ivan/.vim/colors/leya.vim
+t/home/ivan/.vifm/Trash/000_vim-starwars-master
+	/home/ivan/Загрузки/vim-starwars-master
+t/home/ivan/.vifm/Trash/000_vim-starwars-master.zip
+	/home/ivan/Загрузки/vim-starwars-master.zip
+t/home/ivan/.vifm/Trash/000_base16-atelierdune.vim
+	/home/ivan/.vim/colors/base16-atelierdune.vim
+t/home/ivan/.vifm/Trash/000_AtelierDune-master
+	/home/ivan/Загрузки/AtelierDune-master
+t/home/ivan/.vifm/Trash/000_AtelierDune-master.zip
+	/home/ivan/Загрузки/AtelierDune-master.zip
+t/home/ivan/.vifm/Trash/000_earendel.vim
+	/home/ivan/.vim/colors/earendel.vim
+t/home/ivan/.vifm/Trash/001_colors
+	/home/ivan/Загрузки/earendel-master/colors
+t/home/ivan/.vifm/Trash/000_earendel-master
+	/home/ivan/Загрузки/earendel-master
+t/home/ivan/.vifm/Trash/000_earendel-master.zip
+	/home/ivan/Загрузки/earendel-master.zip
+t/home/ivan/.vifm/Trash/000_vim-sol-master
+	/home/ivan/Загрузки/vim-sol-master
+t/home/ivan/.vifm/Trash/000_vim-sol-master.zip
+	/home/ivan/Загрузки/vim-sol-master.zip
+t/home/ivan/.vifm/Trash/000_sol.vim
+	/home/ivan/.vim/colors/sol.vim
+t/home/ivan/.vifm/Trash/001_github.vim
+	/home/ivan/.vim/colors/github.vim
+t/home/ivan/.vifm/Trash/002_colors
+	/home/ivan/.vim/colors
+t/home/ivan/.vifm/Trash/000_bundle
+	/home/ivan/.vim/bundle
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].0
+]F
+s0

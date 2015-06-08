@@ -1,0 +1,169 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Bookmarks:
+'H
+	/home/ivan/
+	../
+1431458019
+'b
+	/home/ivan/bin/
+	../
+1431458030
+'h
+	/home/ivan/
+	../
+1431458030
+'z
+	/home/ivan/.vifm
+	../
+1431458019
+
+# TUI:
+ar
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/ivan/tmp/vifm-0.7.7
+	../
+0
+d/home/ivan/tmp
+	../
+0
+d/home/ivan
+	../
+0
+d/home
+	../
+0
+d/
+	media/
+8
+d/media
+	ivan/
+3
+d/media/ivan
+	BOOKS/
+1
+d/media/ivan/BOOKS
+	[progs-linux]/
+3
+d/media/ivan/BOOKS/[progs-linux]
+	addons/
+1
+d/media/ivan/BOOKS/[progs-linux]/addons
+	vifm/
+1
+d/media/ivan/BOOKS/[progs-linux]/addons/vifm
+	colorschemes/
+1
+d/media/ivan/BOOKS/[progs-linux]/addons/vifm/colorschemes
+	vifm-colors-master/
+1
+d/media/ivan/BOOKS/[progs-linux]/addons/vifm/colorschemes/vifm-colors-master
+	../
+0
+d/media/ivan/BOOKS/[progs-linux]/addons/vifm/colorschemes
+	../
+0
+d/media/ivan/BOOKS/[progs-linux]/addons/vifm
+	../
+0
+d/media/ivan/BOOKS/[progs-linux]/addons
+	../
+0
+d/media/ivan/BOOKS/[progs-linux]
+	sources/
+4
+d/media/ivan/BOOKS/[progs-linux]/sources
+	vim/
+7
+d/media/ivan/BOOKS/[progs-linux]/sources/vim
+	../
+0
+d/media/ivan/BOOKS/[progs-linux]/sources
+	../
+0
+d/media/ivan/BOOKS/[progs-linux]
+	../
+0
+d/media/ivan/BOOKS
+	../
+0
+d/media/ivan
+	../
+0
+d/media
+	ivan/
+3
+d
+
+# Right window history (oldest to newest):
+D/home/ivan/tmp/vifm-0.7.7
+	../
+0
+D/home/ivan/tmp
+	../
+0
+D/home/ivan
+	.vifm/
+8
+D/home/ivan/.vifm
+	colors/
+2
+D/home/ivan/.vifm/colors
+	../
+0
+D/home/ivan/.vifm
+	../
+0
+D/home/ivan
+	tmp/
+11
+D/home/ivan/tmp
+	../
+0
+D/home/ivan
+	tmp/
+11
+D/home/ivan/tmp
+	../
+0
+D
+
+# Command line history (oldest to newest):
+:colorscheme solarized-dark
+:q
+:wq
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/ivan/.vifm/Trash/000_vim-7.4.tar.bz2
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/ivan/.vifm/Trash/000_vim74
+	/home/ivan/tmp/vim74
+t/home/ivan/.vifm/Trash/000_vim-7.4.tar.bz2
+	/home/ivan/tmp/vim-7.4.tar.bz2
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].0
+]F
+s0
