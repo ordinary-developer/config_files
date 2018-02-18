@@ -1,0 +1,12 @@
+deb http://mirror.yandex.ru/debian stretch main
+deb-src http://mirror.yandex.ru/debian stretch main
+
+deb http://mirror.yandex.ru/debian stretch-updates main
+deb-src http://mirror.yandex.ru/debian stretch-updates main
+
+deb http://security.debian.org/ stretch/updates main
+deb-src http://security.debian.org/ stretch/updates main
+
+# for gcc 7 installing
+deb http://mirror.yandex.ru/debian testing main contrib non-free
+
